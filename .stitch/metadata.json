@@ -1,0 +1,22 @@
+{
+  "name": "projects/11425011211082366409",
+  "projectId": "11425011211082366409",
+  "title": "Bangkok Boba Web Experience Template",
+  "visibility": "PRIVATE",
+  "projectType": "PROJECT_DESIGN",
+  "origin": "STITCH",
+  "deviceType": "DESKTOP",
+  "designTheme": {
+    "colorMode": "DARK",
+    "font": "MONTSERRAT",
+    "roundness": "ROUND_EIGHT",
+    "customColor": "#ff4e7a"
+  },
+  "screens": {
+    "index": {
+      "id": "index-main",
+      "width": 1440,
+      "height": 2800
+    }
+  }
+}
