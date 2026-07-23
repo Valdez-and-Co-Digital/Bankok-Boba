@@ -5,18 +5,37 @@
   "visibility": "PRIVATE",
   "projectType": "PROJECT_DESIGN",
   "origin": "STITCH",
-  "deviceType": "DESKTOP",
+  "deviceType": "AGNOSTIC",
   "designTheme": {
     "colorMode": "DARK",
     "font": "MONTSERRAT",
     "roundness": "ROUND_EIGHT",
-    "customColor": "#ff4e7a"
+    "customColor": "#2a0e47",
+    "secondaryColor": "#ffb2bd",
+    "tertiaryColor": "#f1c100",
+    "neonGreen": "#00E676"
   },
   "screens": {
-    "index": {
-      "id": "index-main",
-      "width": 1440,
-      "height": 2800
+    "desktop_home": {
+      "id": "0e99183a405e4785a8fd318d7a7fd8d6",
+      "sourceScreen": "projects/11425011211082366409/screens/0e99183a405e4785a8fd318d7a7fd8d6",
+      "deviceType": "DESKTOP",
+      "width": 2560,
+      "height": 9868
+    },
+    "desktop_ramen_builder": {
+      "id": "58551e228c5d4206a07b809b3806204d",
+      "sourceScreen": "projects/11425011211082366409/screens/58551e228c5d4206a07b809b3806204d",
+      "deviceType": "DESKTOP",
+      "width": 2560,
+      "height": 2542
+    },
+    "mobile_home": {
+      "id": "eca6168c4cdf403fbf6f7895dcb5f82c",
+      "sourceScreen": "projects/11425011211082366409/screens/eca6168c4cdf403fbf6f7895dcb5f82c",
+      "deviceType": "MOBILE",
+      "width": 390,
+      "height": 884
     }
   }
 }
